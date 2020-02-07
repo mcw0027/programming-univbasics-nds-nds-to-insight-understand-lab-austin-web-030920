@@ -14,5 +14,5 @@ while counter < movies.length do
   titles = movies[counter][:title]
   puts titles
   counter += 1
-  
+end  
 end
